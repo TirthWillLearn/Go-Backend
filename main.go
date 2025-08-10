@@ -35,6 +35,7 @@ func main() {
 	sum := add(10, 20)
 	fmt.Println("Sum:", sum)
 
+	fmt.Println("Hi I am Tirth Welcome to my Go Page")
 }
 
 // add function with typed parameters and return type
